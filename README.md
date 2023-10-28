@@ -21,7 +21,7 @@ Here is the drone I took all these pictures with. Altohught it was initially pur
 |<img src="supp/sun_05.jpg">|<img src="supp/sun_04.jpg">|<img src="supp/sun_06.jpg">|
 |<img src="supp/sun_02.jpg">|<img src="supp/sun_01.jpg">|<img src="supp/sun_00.jpg">|
 
-|<img src="supp/hill_w_01.jpg">|<img src="supp/hill_w_02.JPG">|
+|<img src="supp/hill_w_01.jpg">|<img src="supp/hill_w_02.jpg">|
 |-|-|
 
 |<img src="supp/hill_00.jpg">|<img src="supp/hill_01.jpg">|<img src="supp/hill_02.jpg">|
